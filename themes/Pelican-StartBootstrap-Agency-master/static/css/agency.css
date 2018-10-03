@@ -151,7 +151,7 @@ fieldset[disabled] .btn-xl.active {
   border-color: transparent;
 }
 .navbar-custom .navbar-brand {
-  color: #E57200;
+  color: #ddd;
   font-family: "Bungee", "Helvetica Neue", Helvetica, Arial, cursive;
 }
 .navbar-custom .navbar-brand:hover,
@@ -168,7 +168,7 @@ fieldset[disabled] .btn-xl.active {
   border-color: #E57200;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
-  color: white;
+  color: #ddd;
   font-size: 12px;
 }
 .navbar-custom .navbar-toggle:hover,
@@ -180,7 +180,7 @@ fieldset[disabled] .btn-xl.active {
   text-transform: uppercase;
   font-weight: 400;
   letter-spacing: 1px;
-  color: white;
+  color: #ddd;
 }
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
@@ -195,7 +195,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-custom .navbar-nav > .active > a:hover,
 .navbar-custom .navbar-nav > .active > a:focus {
   color: white;
-  background-color: #fec503;
+  background-color: #E97200;
 }
 @media (min-width: 768px) {
   .navbar-custom {
@@ -235,8 +235,9 @@ header {
   background-size: cover;
   -o-background-size: cover;
   text-align: center;
-  color: white;
+  color: #fff;
   padding-bottom: 100px;
+  background-color: #303030;
 }
 header .intro-text {
   padding-top: 100px;
