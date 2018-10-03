@@ -547,6 +547,8 @@ section h3.section-subheading {
 .team-member h4 {
   margin-top: 25px;
   margin-bottom: 0;
+  margin-left: -10px;
+  margin-right: -10px;
   text-transform: none;
 }
 .team-member p {
